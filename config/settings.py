@@ -23,4 +23,4 @@ OUTPUT_PATH = os.path.join(BASE_DIR, "output")
 OUTPUT_GRAFICOS = os.path.join(OUTPUT_PATH, "graficos")
 
 # API de tipo de cambio
-EXCHANGE_RATE_API = "https://api.exchangerate-api.com/v4/latest/USD"
+EXCHANGE_RATE_API = "xhttps://api.exchangerate-api.com/v4/latest/USD"
